@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="ir.sadad.bami.sample.login">
-
     <!-- This permission is necessary for login sdk -->
     <uses-permission android:name="ir.sadad.bami.sdk.LOGIN" />
 
